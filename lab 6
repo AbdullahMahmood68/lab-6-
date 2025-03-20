@@ -21,5 +21,6 @@ class Program
         {
             Console.WriteLine(item);
         }
+groceryitems.add("Daal");
     }
 }
