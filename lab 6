@@ -20,7 +20,11 @@ class Program
         foreach (var item in groceryItems)
         {
             Console.WriteLine(item);
+ 2
+        } groceryitems.add("Wheat");
+
         }
 groceryitems.add("Daal");
+main
     }
 }
