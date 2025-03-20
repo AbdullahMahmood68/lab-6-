@@ -20,6 +20,6 @@ class Program
         foreach (var item in groceryItems)
         {
             Console.WriteLine(item);
-        }
+        } groceryitems.add("Wheat");
     }
 }
